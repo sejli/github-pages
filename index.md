@@ -1,6 +1,10 @@
 # Hey! My name is Sean.
 ![This is me](me.png)
 ## Contents
+1. [About Me](https://sejli.github.io/github-pages/#1-about-me)
+2. [Coursework](https://sejli.github.io/github-pages/#2-coursework)
+3. [Programming Languages](https://sejli.github.io/github-pages/#3-programming-languages)
+4. [Important](https://sejli.github.io/github-pages/#4-important)
 
 ### 1. About Me
 I'm a fourth year transfer studying ***Computer Science*** at ***UC San Diego***. In my free time, I like to solve Rubik's cubes and play badminton.
