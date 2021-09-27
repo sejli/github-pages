@@ -1,4 +1,4 @@
-# Hey! My name is Sean.
+## Hey! My name is Sean.
 ![This is me](me.png)
 ## Contents
 1. [About Me](https://sejli.github.io/github-pages/#1-about-me)
